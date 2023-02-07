@@ -1,0 +1,76 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/images/bg/main.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: auto;
+    justify-content: end;
+    align-items: end;
+}
+
+.title1 {
+    margin-top: 20px;
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px gainsboro;
+    letter-spacing: 3px;
+}
+
+.title2 {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px gainsboro;
+    letter-spacing: 3px;
+    margin-bottom: 525px;
+}
+
+.favorite {
+    height: auto;
+    background: url("../assets/images/bg/bg-toystory.jpg");
+    background-size: cover;
+}
+
+.others {
+    height: auto;
+    background: url("../assets/images/bg/bg-monsterinc.jpg");
+    background-size: cover;
+}
+
+.movieImage {
+    width: auto;
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 585px;
+}
+
+.Navbar {
+    font-size: medium;
+    font-weight: bolder;
+    line-height: 1;
+    letter-spacing: 1px;
+    background-color: white;
+    border-bottom: 1px solid;
+    font-style: oblique;
+    color: black;
+}
+
+.font-fav {
+    font-style: oblique;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px grey;
+}
+
+.font-others {
+    font-style: oblique;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px grey;
+}
